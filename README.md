@@ -5,7 +5,7 @@ Pyglet
 ```
 $ pip install pyglet
 ```
-## Instructions
+## Usage
 - Start typing the paragraph shown on the screen in the space given.
 - This will start the timer, continue typing....
 - Once you are done, the WPM(Words per Minute) will be displayed on the screen.
