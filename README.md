@@ -9,5 +9,5 @@ $ pip install -r requirements.txt
 - This will start the timer, continue typing....
 - Once you are done, the WPM(Words per Minute) will be displayed on the screen.
 # Preview
-<img src="preview.png" height="570">
-<img src="preview1.png" height="600">
+<img src="preview.png" height="500">
+<img src="preview1.png" height="500">
