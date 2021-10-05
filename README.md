@@ -1,6 +1,6 @@
 # TypingTester
 This program made with Python's popular GUI module Tkinter tests your touch typing skills and outputs your GROSS WPM on the screen. 
-# Install
+# Installation
 ```
 $ pip install -r requirements.txt
 ```
